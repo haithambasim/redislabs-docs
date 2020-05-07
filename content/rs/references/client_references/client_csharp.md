@@ -87,4 +87,4 @@ Once connected to Redis, you can start reading and writing data. The following c
 
 The output of the above code should be:
 
-    bar
+    bar_
